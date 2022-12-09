@@ -1,2 +1,2 @@
 # TruthTable-DNF
-This program can take boolean expressions upto four variables and then print the truth table and DNF expression.
+This program can take Boolean expressions upto four variables and then print the Truth Table and DNF expression.
